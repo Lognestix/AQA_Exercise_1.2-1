@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/m9jonwha9uhsdoi1/branch/main?svg=true)](https://ci.appveyor.com/project/Lognestix/aqa-exercise-1-2-1/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/m9jonwha9uhsdoi1?svg=true)](https://ci.appveyor.com/project/Lognestix/aqa-exercise-1-2-1)
